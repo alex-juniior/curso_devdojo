@@ -17,7 +17,7 @@ public class JogadorTest03 {
 
         System.out.println("---Jogador---");
         jogador.imprime();
-       
+
 
         System.out.println("---Time---");
         time.imprime();
