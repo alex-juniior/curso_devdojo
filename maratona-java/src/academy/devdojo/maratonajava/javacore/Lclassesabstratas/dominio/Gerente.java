@@ -11,6 +11,11 @@ public class Gerente extends  Funcionario{
     }
 
     @Override
+    public void imprime() {
+        System.out.println("Imprimindo...");
+    }
+
+    @Override
     public String toString() {
         return "Gerente{" +
                 "nome='" + nome + '\'' +
