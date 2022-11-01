@@ -24,6 +24,24 @@ public class Smartphone {
 
     }
 
+    //se x.equals*t) == ytru, y.hascode() == x.hascode()
+    // y.hascode == x.hascode() não necessariamente o equas(x) tem que ser true
+    // x.equals(y) == false
+    // y.hascode() != x.hascode() x.equal(y) deverá faltar
+    @Override
+    public int hashCode() {
+        return  serialNumber == null ? 0 : this.serialNumber.hashCode();
+
+    }
+
+    @Override
+    public String toString() {
+        return "Smartphone{" +
+                "serialNumber='" + serialNumber + '\'' +
+                ", marca='" + marca + '\'' +
+                '}';
+    }
+
     public String getSerialNumber() {
         return serialNumber;
     }
