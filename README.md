@@ -1,147 +1,86 @@
 
 # Curso de Java DevDojo Maratona Java Virado no Jiraya
 https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=1
+
 ## Curso Dividido em módulos
-## OBS: Nomes dos pacotes estão em maiúsculo apenas afins de organização sequêncial dos estudos, sabendo que pacotes devem ser criados em minúsculo
+## OBS: Nomes dos pacotes estão em maiúsculo apenas afins de organização sequêncial dos estudos, conhecendo que pacotes devem ser criados em minúsculo devido a boas práticas.
 
-## Versionamento feito afins de aprendizado e revisão do código para consulta em caso de dúvidas em projetos futuros
 
-&nbsp;
+    Versionamento feito afins de aprendizado e revisão do código para consulta em caso de dúvidas em projetos futuros
+
 -------------------------------------
-####Temas abordados no curso###
--------------------------------------
-
-Introdução a classes
+Temas abordados no curso
 -------------------------------------
 &nbsp;
 
-Introdução a métodos
--------------------------------------
-&nbsp;
+    Introdução a classes
 
-Blocos de inicializaçã
 -------------------------------------
-&nbsp;
 
-Modificadores estáticos
+
+    Introdução a métodos
 -------------------------------------
-&nbsp;
-
-Associação 
+    Blocos de inicialização
 -------------------------------------
-&nbsp;
-
-Herança
+    Modificadores estáticos
 -------------------------------------
-&nbsp;
-
-Sobreescrita
+    Associação 
 -------------------------------------
-&nbsp;
-
-Modiciador Final
+    Herança
 -------------------------------------
-&nbsp;
-
-Enum
+    Sobreescrita
 -------------------------------------
-&nbsp;
-
-Classes Abstratas
+    Modiciador Final
 -------------------------------------
-&nbsp;
-
-Interfaces
+    Enum
 -------------------------------------
-&nbsp;
-
-Polimorfimos
+    Classes Abstratas
 -------------------------------------
-&nbsp;
-
-Exceptions
+    Interfaces
 -------------------------------------
-&nbsp;
-
-Wrappers Classes
+    Polimorfimos
 -------------------------------------
-&nbsp;
-
-String Builder
+    Exceptions
 -------------------------------------
-&nbsp;
-
-Dates
+    Wrappers Classes
 -------------------------------------
-&nbsp;
-
-Formacação de data e hora
+    String Builder
 -------------------------------------
-&nbsp;
-
-Resource Bundle
+    Dates
 -------------------------------------
-&nbsp;
-
-Regex
+    Formacação de data e hora
 -------------------------------------
-&nbsp;
-
-IO
+    Resource Bundle
 -------------------------------------
-&nbsp;
-
-NIO
+    Regex
 -------------------------------------
-&nbsp;
-
-Serialização
+    IO
 -------------------------------------
-&nbsp;
-
-Coleções
+    NIO
 -------------------------------------
-&nbsp;
-
-Classes internas
+    Serialização
 -------------------------------------
-&nbsp;
-
-Generics
+    Coleções
 -------------------------------------
-&nbsp;
-
-Lambdas
+    Classes internas
 -------------------------------------
-&nbsp;
-
-Optional
+    Generics
 -------------------------------------
-&nbsp;
-
-Streams
+    Lambdas
 -------------------------------------
-&nbsp;
-
-Threads
+    Optional
 -------------------------------------
-&nbsp;
-
-Concorrencia 
+    Streams
 -------------------------------------
-&nbsp;
-
-Introdução a padrões de projetos
+    Threads
 -------------------------------------
-&nbsp;
-
-JDBC
+    Concorrencia 
 -------------------------------------
-&nbsp;
-
-CRUD
+    Introdução a padrões de projetos
 -------------------------------------
-&nbsp;
-
-Introdução a Testes com Junit
+    JDBC
+-------------------------------------
+    CRUD
+-------------------------------------
+    Introdução a Testes com Junit
 -------------------------------------
