@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.ZZIjdbc.listener;
+package academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.listener;
 
 import lombok.extern.log4j.Log4j2;
 
