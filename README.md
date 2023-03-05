@@ -1,6 +1,6 @@
 
 # Curso de Java DevDojo Maratona Java Virado no Jiraya
-##https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=1
+https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=1
 ## Curso Dividido em módulos
 ## OBS: Nomes dos pacotes estão em maiúsculo apenas afins de organização sequêncial dos estudos, sabendo que pacotes devem ser criados em minúsculo
 ## Versionamento feito afins de aprendizado e revisão do código para consulta em caso de dúvidas em projetos futuros
